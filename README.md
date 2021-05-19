@@ -9,7 +9,7 @@ Projects & Tasks --> View all the projects and tasks on the same screen. You can
 
 Do it Yourself --> The user will be able to select esither a projects or Tasks and carry out piviot operations on the data for data analysis. The user can generate the charts and also color code/ heatmap the data on the pivot.
 
-![alt text](https://github.com/amitvkulkarni/ProjectManagement/blob/master/DIY.gif)
+![alt text](https://github.com/amitvkulkarni/ProjectManagement/Images/blob/master/DIY.gif)
 
 Help --> Allows users to take a quick look at various features of the application.
 
